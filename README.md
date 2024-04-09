@@ -16,7 +16,7 @@
 
 📫 Let's Connect and Create:
 - GitHub: https://github.com/AkhilSinghPatel
-- LinkedIn: www.linkedin.com/in/akhil-singh-patel-7a92a4265
+- LinkedIn: www.linkedin.com/in/akhil-singh-patel
 - X: https://twitter.com/Akhil_singh_asp
 - Email: akhilsinghpatel17@gmail.com
 
