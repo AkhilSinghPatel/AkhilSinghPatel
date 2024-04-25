@@ -1,7 +1,7 @@
 👋 Hello World! I'm Akhil Singh Patel, a passionate Frontend/Backend/Full stack developer with a Passion for building robust web applications. 💻
 
 🚀 About Me: 
-- 🎓 Graduated with a degree in Electronics and Communication from RGPV Bhopal.
+- 🎓 Graduated with a degree in Electronics and Communication from RGPV Bhopal. 
 - 🌟 Experienced in full-stack development, specializing in MongoDB, Express.js, React.js, and Node.js.
 - 🛠️ Proficient in JavaScript (ES6+), HTML5, Tailwind CSS, and related libraries like Redux for State Management in React.
 - 📦 Familiar with RESTful APIs, and integrating third-party services (E.g. Google Maps, Chat GPT etc.).
