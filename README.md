@@ -17,7 +17,6 @@
 📫 Let's Connect and Create:
 - GitHub: https://github.com/AkhilSinghPatel
 - LinkedIn: www.linkedin.com/in/akhil-singh-patel
-- X: https://twitter.com/Akhil_singh_asp
 - Email: akhilsinghpatel17@gmail.com
 
 🌱 I'm continuously learning and growing in the ever-evolving world of web development. Let's collaborate and build something amazing together for the World. 🚀
